@@ -8,7 +8,7 @@
     "dev": "nodemon ."
   },
   "keywords": [],
-  "author": "napthedev",
+  "author": "hoanglam1309a",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",
